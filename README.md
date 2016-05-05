@@ -1,2 +1,2 @@
-# TelerikAcademyHomeworks
-homeworks and examples
+Homeworks and exsercizes
+
